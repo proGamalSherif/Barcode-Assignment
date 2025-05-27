@@ -236,3 +236,4 @@ C:\Users\devga\OneDrive\Desktop\FinalBarcode\BarcodeAssignment\Assignment\obj\De
 C:\Users\devga\OneDrive\Desktop\FinalBarcode\BarcodeAssignment\Assignment\obj\Debug\net9.0\Assignment.pdb
 C:\Users\devga\OneDrive\Desktop\FinalBarcode\BarcodeAssignment\Assignment\obj\Debug\net9.0\Assignment.genruntimeconfig.cache
 C:\Users\devga\OneDrive\Desktop\FinalBarcode\BarcodeAssignment\Assignment\obj\Debug\net9.0\ref\Assignment.dll
+C:\Users\devga\OneDrive\Desktop\FinalBarcode\BarcodeAssignment\Assignment\obj\Debug\net9.0\Assignment.sourcelink.json
