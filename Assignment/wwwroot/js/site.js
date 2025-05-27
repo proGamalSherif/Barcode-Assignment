@@ -13,3 +13,14 @@ imgSelectObj?.addEventListener('change', function (e) {
         reader.readAsDataURL(file);
     }
 });
+
+
+// Clear image selection
+        document.getElementById('clearImage').addEventListener('click', function() {
+            document.getElementById('image').value = '';
+            document.getElementById('imagePreview').innerHTML = `
+                <div class="d-flex flex-column align-items-center justify-content-center" style="min-height: 200px;">
+                    <i class="bi bi-image text-muted" style="font-size: 3rem;"></i>
+                    <span class="text-muted mt-2">Image preview will appear here</span>
+                </div>`;
+        });

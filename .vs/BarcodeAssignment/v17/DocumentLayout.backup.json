@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\devga\\OneDrive\\Desktop\\FinalBarcode\\BarcodeAssignment\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C6304AD1-86A6-446C-9EAF-4867E80C73EF}|Assignment\\Assignment.csproj|c:\\users\\devga\\onedrive\\desktop\\finalbarcode\\barcodeassignment\\assignment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C6304AD1-86A6-446C-9EAF-4867E80C73EF}|Assignment\\Assignment.csproj|solutionrelative:assignment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C6304AD1-86A6-446C-9EAF-4867E80C73EF}|Assignment\\Assignment.csproj|c:\\users\\devga\\onedrive\\desktop\\finalbarcode\\barcodeassignment\\assignment\\views\\data\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C6304AD1-86A6-446C-9EAF-4867E80C73EF}|Assignment\\Assignment.csproj|solutionrelative:assignment\\views\\data\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C6304AD1-86A6-446C-9EAF-4867E80C73EF}|Assignment\\Assignment.csproj|c:\\users\\devga\\onedrive\\desktop\\finalbarcode\\barcodeassignment\\assignment\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{C6304AD1-86A6-446C-9EAF-4867E80C73EF}|Assignment\\Assignment.csproj|solutionrelative:assignment\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{C6304AD1-86A6-446C-9EAF-4867E80C73EF}|Assignment\\Assignment.csproj|c:\\users\\devga\\onedrive\\desktop\\finalbarcode\\barcodeassignment\\assignment\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{C6304AD1-86A6-446C-9EAF-4867E80C73EF}|Assignment\\Assignment.csproj|solutionrelative:assignment\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6304AD1-86A6-446C-9EAF-4867E80C73EF}|Assignment\\Assignment.csproj|c:\\users\\devga\\onedrive\\desktop\\finalbarcode\\barcodeassignment\\assignment\\views\\data\\datadetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C6304AD1-86A6-446C-9EAF-4867E80C73EF}|Assignment\\Assignment.csproj|solutionrelative:assignment\\views\\data\\datadetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,27 +27,40 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\devga\\OneDrive\\Desktop\\FinalBarcode\\BarcodeAssignment\\Assignment\\Program.cs",
-              "RelativeDocumentMoniker": "Assignment\\Program.cs",
-              "ToolTip": "C:\\Users\\devga\\OneDrive\\Desktop\\FinalBarcode\\BarcodeAssignment\\Assignment\\Program.cs",
-              "RelativeToolTip": "Assignment\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-27T01:59:50.088Z",
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\devga\\OneDrive\\Desktop\\FinalBarcode\\BarcodeAssignment\\Assignment\\Views\\Data\\Index.cshtml",
+              "RelativeDocumentMoniker": "Assignment\\Views\\Data\\Index.cshtml",
+              "ToolTip": "C:\\Users\\devga\\OneDrive\\Desktop\\FinalBarcode\\BarcodeAssignment\\Assignment\\Views\\Data\\Index.cshtml",
+              "RelativeToolTip": "Assignment\\Views\\Data\\Index.cshtml",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAADoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-27T11:01:22.647Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\devga\\OneDrive\\Desktop\\FinalBarcode\\BarcodeAssignment\\Assignment\\appsettings.json",
-              "RelativeDocumentMoniker": "Assignment\\appsettings.json",
-              "ToolTip": "C:\\Users\\devga\\OneDrive\\Desktop\\FinalBarcode\\BarcodeAssignment\\Assignment\\appsettings.json",
-              "RelativeToolTip": "Assignment\\appsettings.json",
+              "Title": "site.js",
+              "DocumentMoniker": "C:\\Users\\devga\\OneDrive\\Desktop\\FinalBarcode\\BarcodeAssignment\\Assignment\\wwwroot\\js\\site.js",
+              "RelativeDocumentMoniker": "Assignment\\wwwroot\\js\\site.js",
+              "ToolTip": "C:\\Users\\devga\\OneDrive\\Desktop\\FinalBarcode\\BarcodeAssignment\\Assignment\\wwwroot\\js\\site.js",
+              "RelativeToolTip": "Assignment\\wwwroot\\js\\site.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-05-27T11:00:04.856Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DataDetails.cshtml",
+              "DocumentMoniker": "C:\\Users\\devga\\OneDrive\\Desktop\\FinalBarcode\\BarcodeAssignment\\Assignment\\Views\\Data\\DataDetails.cshtml",
+              "RelativeDocumentMoniker": "Assignment\\Views\\Data\\DataDetails.cshtml",
+              "ToolTip": "C:\\Users\\devga\\OneDrive\\Desktop\\FinalBarcode\\BarcodeAssignment\\Assignment\\Views\\Data\\DataDetails.cshtml",
+              "RelativeToolTip": "Assignment\\Views\\Data\\DataDetails.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-05-27T01:59:30.872Z",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-27T10:56:19.91Z",
               "EditorCaption": ""
             }
           ]
