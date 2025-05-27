@@ -1,0 +1,313 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\devga\\OneDrive\\Desktop\\FinalBarcode\\BarcodeAssignment\\Assignment\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\Assignment.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Assignment.1m77efm203.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\devga\\OneDrive\\Desktop\\FinalBarcode\\BarcodeAssignment\\Assignment\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\devga\\OneDrive\\Desktop\\FinalBarcode\\BarcodeAssignment\\Assignment\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\devga\\OneDrive\\Desktop\\FinalBarcode\\BarcodeAssignment\\Assignment\\wwwroot\\images\\54da0607-e8b8-474f-906e-1d4e4d561622.jpg",
+      "PackagePath": "staticwebassets\\images\\54da0607-e8b8-474f-906e-1d4e4d561622.jpg"
+    },
+    {
+      "Id": "C:\\Users\\devga\\OneDrive\\Desktop\\FinalBarcode\\BarcodeAssignment\\Assignment\\wwwroot\\images\\83c5b54d-09db-469f-b898-3598c4447b5f.jpg",
+      "PackagePath": "staticwebassets\\images\\83c5b54d-09db-469f-b898-3598c4447b5f.jpg"
+    },
+    {
+      "Id": "C:\\Users\\devga\\OneDrive\\Desktop\\FinalBarcode\\BarcodeAssignment\\Assignment\\wwwroot\\images\\86e0529f-9f45-43d4-804d-86b4c5416044.jpg",
+      "PackagePath": "staticwebassets\\images\\86e0529f-9f45-43d4-804d-86b4c5416044.jpg"
+    },
+    {
+      "Id": "C:\\Users\\devga\\OneDrive\\Desktop\\FinalBarcode\\BarcodeAssignment\\Assignment\\wwwroot\\images\\8cd89939-f056-4038-86a5-16caed8d06a0.jpg",
+      "PackagePath": "staticwebassets\\images\\8cd89939-f056-4038-86a5-16caed8d06a0.jpg"
+    },
+    {
+      "Id": "C:\\Users\\devga\\OneDrive\\Desktop\\FinalBarcode\\BarcodeAssignment\\Assignment\\wwwroot\\images\\c32378fe-8e7b-4dd6-a0a0-65a47f5fe2e6.jpeg",
+      "PackagePath": "staticwebassets\\images\\c32378fe-8e7b-4dd6-a0a0-65a47f5fe2e6.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\devga\\OneDrive\\Desktop\\FinalBarcode\\BarcodeAssignment\\Assignment\\wwwroot\\images\\d8bfc967-51c9-44b8-bf6c-e7f290d2405d.jpg",
+      "PackagePath": "staticwebassets\\images\\d8bfc967-51c9-44b8-bf6c-e7f290d2405d.jpg"
+    },
+    {
+      "Id": "C:\\Users\\devga\\OneDrive\\Desktop\\FinalBarcode\\BarcodeAssignment\\Assignment\\wwwroot\\images\\de3937c8-ced6-4258-8efc-b66b245f44da.jpeg",
+      "PackagePath": "staticwebassets\\images\\de3937c8-ced6-4258-8efc-b66b245f44da.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\devga\\OneDrive\\Desktop\\FinalBarcode\\BarcodeAssignment\\Assignment\\wwwroot\\images\\fb788a04-5bff-4269-9b5f-f48de1b5d1c8.jpg",
+      "PackagePath": "staticwebassets\\images\\fb788a04-5bff-4269-9b5f-f48de1b5d1c8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\devga\\OneDrive\\Desktop\\FinalBarcode\\BarcodeAssignment\\Assignment\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\devga\\OneDrive\\Desktop\\FinalBarcode\\BarcodeAssignment\\Assignment\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\devga\\OneDrive\\Desktop\\FinalBarcode\\BarcodeAssignment\\Assignment\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\devga\\OneDrive\\Desktop\\FinalBarcode\\BarcodeAssignment\\Assignment\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\devga\\OneDrive\\Desktop\\FinalBarcode\\BarcodeAssignment\\Assignment\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\devga\\OneDrive\\Desktop\\FinalBarcode\\BarcodeAssignment\\Assignment\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\devga\\OneDrive\\Desktop\\FinalBarcode\\BarcodeAssignment\\Assignment\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\devga\\OneDrive\\Desktop\\FinalBarcode\\BarcodeAssignment\\Assignment\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\devga\\OneDrive\\Desktop\\FinalBarcode\\BarcodeAssignment\\Assignment\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\devga\\OneDrive\\Desktop\\FinalBarcode\\BarcodeAssignment\\Assignment\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\devga\\OneDrive\\Desktop\\FinalBarcode\\BarcodeAssignment\\Assignment\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\devga\\OneDrive\\Desktop\\FinalBarcode\\BarcodeAssignment\\Assignment\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\devga\\OneDrive\\Desktop\\FinalBarcode\\BarcodeAssignment\\Assignment\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\devga\\OneDrive\\Desktop\\FinalBarcode\\BarcodeAssignment\\Assignment\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\devga\\OneDrive\\Desktop\\FinalBarcode\\BarcodeAssignment\\Assignment\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\devga\\OneDrive\\Desktop\\FinalBarcode\\BarcodeAssignment\\Assignment\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\devga\\OneDrive\\Desktop\\FinalBarcode\\BarcodeAssignment\\Assignment\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\devga\\OneDrive\\Desktop\\FinalBarcode\\BarcodeAssignment\\Assignment\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\devga\\OneDrive\\Desktop\\FinalBarcode\\BarcodeAssignment\\Assignment\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\devga\\OneDrive\\Desktop\\FinalBarcode\\BarcodeAssignment\\Assignment\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\devga\\OneDrive\\Desktop\\FinalBarcode\\BarcodeAssignment\\Assignment\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\devga\\OneDrive\\Desktop\\FinalBarcode\\BarcodeAssignment\\Assignment\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\devga\\OneDrive\\Desktop\\FinalBarcode\\BarcodeAssignment\\Assignment\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\devga\\OneDrive\\Desktop\\FinalBarcode\\BarcodeAssignment\\Assignment\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\devga\\OneDrive\\Desktop\\FinalBarcode\\BarcodeAssignment\\Assignment\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\devga\\OneDrive\\Desktop\\FinalBarcode\\BarcodeAssignment\\Assignment\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\devga\\OneDrive\\Desktop\\FinalBarcode\\BarcodeAssignment\\Assignment\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\devga\\OneDrive\\Desktop\\FinalBarcode\\BarcodeAssignment\\Assignment\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\devga\\OneDrive\\Desktop\\FinalBarcode\\BarcodeAssignment\\Assignment\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\devga\\OneDrive\\Desktop\\FinalBarcode\\BarcodeAssignment\\Assignment\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\devga\\OneDrive\\Desktop\\FinalBarcode\\BarcodeAssignment\\Assignment\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\devga\\OneDrive\\Desktop\\FinalBarcode\\BarcodeAssignment\\Assignment\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\devga\\OneDrive\\Desktop\\FinalBarcode\\BarcodeAssignment\\Assignment\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\devga\\OneDrive\\Desktop\\FinalBarcode\\BarcodeAssignment\\Assignment\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\devga\\OneDrive\\Desktop\\FinalBarcode\\BarcodeAssignment\\Assignment\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\devga\\OneDrive\\Desktop\\FinalBarcode\\BarcodeAssignment\\Assignment\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\devga\\OneDrive\\Desktop\\FinalBarcode\\BarcodeAssignment\\Assignment\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\devga\\OneDrive\\Desktop\\FinalBarcode\\BarcodeAssignment\\Assignment\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\devga\\OneDrive\\Desktop\\FinalBarcode\\BarcodeAssignment\\Assignment\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\devga\\OneDrive\\Desktop\\FinalBarcode\\BarcodeAssignment\\Assignment\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\devga\\OneDrive\\Desktop\\FinalBarcode\\BarcodeAssignment\\Assignment\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\devga\\OneDrive\\Desktop\\FinalBarcode\\BarcodeAssignment\\Assignment\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\devga\\OneDrive\\Desktop\\FinalBarcode\\BarcodeAssignment\\Assignment\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\devga\\OneDrive\\Desktop\\FinalBarcode\\BarcodeAssignment\\Assignment\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\devga\\OneDrive\\Desktop\\FinalBarcode\\BarcodeAssignment\\Assignment\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\devga\\OneDrive\\Desktop\\FinalBarcode\\BarcodeAssignment\\Assignment\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\devga\\OneDrive\\Desktop\\FinalBarcode\\BarcodeAssignment\\Assignment\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\devga\\OneDrive\\Desktop\\FinalBarcode\\BarcodeAssignment\\Assignment\\wwwroot\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\devga\\OneDrive\\Desktop\\FinalBarcode\\BarcodeAssignment\\Assignment\\wwwroot\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\devga\\OneDrive\\Desktop\\FinalBarcode\\BarcodeAssignment\\Assignment\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\devga\\OneDrive\\Desktop\\FinalBarcode\\BarcodeAssignment\\Assignment\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\devga\\OneDrive\\Desktop\\FinalBarcode\\BarcodeAssignment\\Assignment\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\devga\\OneDrive\\Desktop\\FinalBarcode\\BarcodeAssignment\\Assignment\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\devga\\OneDrive\\Desktop\\FinalBarcode\\BarcodeAssignment\\Assignment\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\devga\\OneDrive\\Desktop\\FinalBarcode\\BarcodeAssignment\\Assignment\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\devga\\OneDrive\\Desktop\\FinalBarcode\\BarcodeAssignment\\Assignment\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\devga\\OneDrive\\Desktop\\FinalBarcode\\BarcodeAssignment\\Assignment\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\devga\\OneDrive\\Desktop\\FinalBarcode\\BarcodeAssignment\\Assignment\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\devga\\OneDrive\\Desktop\\FinalBarcode\\BarcodeAssignment\\Assignment\\wwwroot\\lib\\jquery\\dist\\jquery.slim.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.slim.js"
+    },
+    {
+      "Id": "C:\\Users\\devga\\OneDrive\\Desktop\\FinalBarcode\\BarcodeAssignment\\Assignment\\wwwroot\\lib\\jquery\\dist\\jquery.slim.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.slim.min.js"
+    },
+    {
+      "Id": "C:\\Users\\devga\\OneDrive\\Desktop\\FinalBarcode\\BarcodeAssignment\\Assignment\\wwwroot\\lib\\jquery\\dist\\jquery.slim.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.slim.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.Assignment.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.Assignment.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.build.Assignment.props",
+      "PackagePath": "build\\Assignment.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildMultiTargeting.Assignment.props",
+      "PackagePath": "buildMultiTargeting\\Assignment.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildTransitive.Assignment.props",
+      "PackagePath": "buildTransitive\\Assignment.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

@@ -1,0 +1,47 @@
+﻿@using Assignment.DTOs
+@model IList<ReadContentDataDTO>
+<div class="container mt-5">
+    <div class="card shadow-sm mb-3" style="height:76vh; overflow-y:auto;">
+        <div class="card-header bg-dark text-white border-white border-1">
+            <h2 class="h5 mb-0">Data Center</h2>
+        </div>
+        <div class="table-responsive">
+            <table class="table table-hover table-striped mb-0">
+                <thead class="table-dark">
+                    <tr>
+                        <th scope="col">#</th>
+                        <th scope="col">CreatedIn</th>
+                        <th scope="col">Title</th>
+                        <th scope="col" class="text-center">Actions</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach(var content in Model)
+                    {
+                        <tr>
+                            <th scope="row">@content.ContentId</th>
+                            <th>@content.CreatedIn </th>
+                            <th>@content.ContentTitle</th>
+                            <td class="text-center">
+                                <a class="btn btn-sm btn-outline-primary me-1">
+                                    FTP
+                                </a>
+                                <a class="btn btn-sm btn-outline-danger" asp-action="GenerateReportById" asp-route-ContentId="@content.ContentId">
+                                    PDF
+                                </a>
+                            </td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        </div>
+    </div>
+    <div class="d-flex align-items-center justify-content-end">
+         <div class="col-auto">
+            <a class="btn btn-outline-primary me-3" asp-action="DataDetails">New Data</a>
+         </div>
+        <div class="col-auto">
+            <a class="btn btn-outline-dark" asp-action="GenerateReportAll">Report All Data</a>
+        </div>
+    </div>
+</div>
