@@ -62,14 +62,6 @@ C:\Users\devga\OneDrive\Desktop\FinalBarcode\BarcodeAssignment\Assignment\wwwroo
 C:\Users\devga\OneDrive\Desktop\FinalBarcode\BarcodeAssignment\Assignment\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js.map
 wwwroot\css\site.css
 wwwroot\favicon.ico
-wwwroot\images\54da0607-e8b8-474f-906e-1d4e4d561622.jpg
-wwwroot\images\83c5b54d-09db-469f-b898-3598c4447b5f.jpg
-wwwroot\images\86e0529f-9f45-43d4-804d-86b4c5416044.jpg
-wwwroot\images\8cd89939-f056-4038-86a5-16caed8d06a0.jpg
-wwwroot\images\c32378fe-8e7b-4dd6-a0a0-65a47f5fe2e6.jpeg
-wwwroot\images\d8bfc967-51c9-44b8-bf6c-e7f290d2405d.jpg
-wwwroot\images\de3937c8-ced6-4258-8efc-b66b245f44da.jpeg
-wwwroot\images\fb788a04-5bff-4269-9b5f-f48de1b5d1c8.jpg
 wwwroot\js\site.js
 wwwroot\lib\bootstrap\dist\css\bootstrap.css
 wwwroot\lib\bootstrap\dist\css\bootstrap.css.map

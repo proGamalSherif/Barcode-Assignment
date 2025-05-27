@@ -14,7 +14,7 @@ namespace Assignment
             var builder = WebApplication.CreateBuilder(args);
             builder.Services.AddControllersWithViews();
             builder.Services.AddDbContext<ApplicationDbContext>(option =>
-            option.UseSqlServer(builder.Configuration.GetConnectionString("LocalConnection")));
+            option.UseSqlServer(builder.Configuration.GetConnectionString("MonsterDb")));
             builder.Services.AddScoped<IContentDataRepository, ContentDataRepository>();
             builder.Services.AddScoped<IContentDataService, ContentDataService>();
             builder.Services.AddScoped<IPdfGenerator, PdfGenerator>();
