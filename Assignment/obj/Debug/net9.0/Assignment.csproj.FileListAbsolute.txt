@@ -158,7 +158,6 @@ C:\Users\devga\OneDrive\Desktop\FinalBarcode\BarcodeAssignment\Assignment\obj\De
 C:\Users\devga\OneDrive\Desktop\FinalBarcode\BarcodeAssignment\Assignment\obj\Debug\net9.0\scopedcss\projectbundle\Assignment.bundle.scp.css
 C:\Users\devga\OneDrive\Desktop\FinalBarcode\BarcodeAssignment\Assignment\obj\Debug\net9.0\compressed\37hy4dqx6s-b9sayid5wm.gz
 C:\Users\devga\OneDrive\Desktop\FinalBarcode\BarcodeAssignment\Assignment\obj\Debug\net9.0\compressed\imj8yjoiqq-61n19gt1b8.gz
-C:\Users\devga\OneDrive\Desktop\FinalBarcode\BarcodeAssignment\Assignment\obj\Debug\net9.0\compressed\89v64ndtbs-wzy6mld5bm.gz
 C:\Users\devga\OneDrive\Desktop\FinalBarcode\BarcodeAssignment\Assignment\obj\Debug\net9.0\compressed\p16fm1m2lb-bqjiyaj88i.gz
 C:\Users\devga\OneDrive\Desktop\FinalBarcode\BarcodeAssignment\Assignment\obj\Debug\net9.0\compressed\jrg6atrpny-c2jlpeoesf.gz
 C:\Users\devga\OneDrive\Desktop\FinalBarcode\BarcodeAssignment\Assignment\obj\Debug\net9.0\compressed\kuis9j0w6f-erw9l3u2r3.gz
@@ -237,3 +236,4 @@ C:\Users\devga\OneDrive\Desktop\FinalBarcode\BarcodeAssignment\Assignment\obj\De
 C:\Users\devga\OneDrive\Desktop\FinalBarcode\BarcodeAssignment\Assignment\obj\Debug\net9.0\Assignment.genruntimeconfig.cache
 C:\Users\devga\OneDrive\Desktop\FinalBarcode\BarcodeAssignment\Assignment\obj\Debug\net9.0\ref\Assignment.dll
 C:\Users\devga\OneDrive\Desktop\FinalBarcode\BarcodeAssignment\Assignment\obj\Debug\net9.0\Assignment.sourcelink.json
+C:\Users\devga\OneDrive\Desktop\FinalBarcode\BarcodeAssignment\Assignment\obj\Debug\net9.0\compressed\89v64ndtbs-mo1ogjmd4n.gz

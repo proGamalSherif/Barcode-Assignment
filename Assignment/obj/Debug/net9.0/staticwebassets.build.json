@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "AsKGZwufKCKHLmVImHX2mq/ZPUzO8nGraSpFd7txz9k=",
+  "Hash": "LWgDlnqx5b912eRZxv/PxCyNKd+2ft5rRPtLe0nDlHI=",
   "Source": "Assignment",
   "BasePath": "_content/Assignment",
   "Mode": "Default",
@@ -290,12 +290,12 @@
       "OriginalItemSpec": "C:\\Users\\devga\\OneDrive\\Desktop\\FinalBarcode\\BarcodeAssignment\\Assignment\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Identity": "C:\\Users\\devga\\OneDrive\\Desktop\\FinalBarcode\\BarcodeAssignment\\Assignment\\obj\\Debug\\net9.0\\compressed\\89v64ndtbs-wzy6mld5bm.gz",
+      "Identity": "C:\\Users\\devga\\OneDrive\\Desktop\\FinalBarcode\\BarcodeAssignment\\Assignment\\obj\\Debug\\net9.0\\compressed\\89v64ndtbs-mo1ogjmd4n.gz",
       "SourceId": "Assignment",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\devga\\OneDrive\\Desktop\\FinalBarcode\\BarcodeAssignment\\Assignment\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/Assignment",
-      "RelativePath": "js/site#[.{fingerprint=wzy6mld5bm}]?.js.gz",
+      "RelativePath": "js/site#[.{fingerprint=mo1ogjmd4n}]?.js.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -304,8 +304,8 @@
       "RelatedAsset": "C:\\Users\\devga\\OneDrive\\Desktop\\FinalBarcode\\BarcodeAssignment\\Assignment\\wwwroot\\js\\site.js",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "490nkx99k1",
-      "Integrity": "+BbQdDmuvAG67SFeLjNHh5yRMelvoueVG1SD3XIEvXw=",
+      "Fingerprint": "7qx6gmi64l",
+      "Integrity": "wUeqRJRZgirEbfYLF4BgvouAXDbjakwESYTxP8Gtj4A=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\devga\\OneDrive\\Desktop\\FinalBarcode\\BarcodeAssignment\\Assignment\\wwwroot\\js\\site.js"
@@ -1445,6 +1445,48 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
+      "Identity": "C:\\Users\\devga\\OneDrive\\Desktop\\FinalBarcode\\BarcodeAssignment\\Assignment\\wwwroot\\images\\47a12e2a-46c4-40d8-b213-0b8aea88e1dc.png",
+      "SourceId": "Assignment",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\devga\\OneDrive\\Desktop\\FinalBarcode\\BarcodeAssignment\\Assignment\\wwwroot\\",
+      "BasePath": "_content/Assignment",
+      "RelativePath": "images/47a12e2a-46c4-40d8-b213-0b8aea88e1dc#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "mxrq1jo50t",
+      "Integrity": "FmMEi7txn7KMGqCMOd6sp1vVxVWiM+zhyDpHVcxtXAY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\47a12e2a-46c4-40d8-b213-0b8aea88e1dc.png"
+    },
+    {
+      "Identity": "C:\\Users\\devga\\OneDrive\\Desktop\\FinalBarcode\\BarcodeAssignment\\Assignment\\wwwroot\\images\\e1be4c9e-e028-4c9c-b437-8db2f3bd6f4f.png",
+      "SourceId": "Assignment",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\devga\\OneDrive\\Desktop\\FinalBarcode\\BarcodeAssignment\\Assignment\\wwwroot\\",
+      "BasePath": "_content/Assignment",
+      "RelativePath": "images/e1be4c9e-e028-4c9c-b437-8db2f3bd6f4f#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "mxrq1jo50t",
+      "Integrity": "FmMEi7txn7KMGqCMOd6sp1vVxVWiM+zhyDpHVcxtXAY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\e1be4c9e-e028-4c9c-b437-8db2f3bd6f4f.png"
+    },
+    {
       "Identity": "C:\\Users\\devga\\OneDrive\\Desktop\\FinalBarcode\\BarcodeAssignment\\Assignment\\wwwroot\\js\\site.js",
       "SourceId": "Assignment",
       "SourceType": "Discovered",
@@ -1459,8 +1501,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "wzy6mld5bm",
-      "Integrity": "rFBmv+JZG7F+EVdyqnIMewxtDt8NgG6MeAQeaCHInhw=",
+      "Fingerprint": "mo1ogjmd4n",
+      "Integrity": "hvqp8srDs5spA9CWjr7kZFDAjBODkvvie2t9tzJ+jz8=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\js\\site.js"
@@ -3920,13 +3962,177 @@
       ]
     },
     {
+      "Route": "images/47a12e2a-46c4-40d8-b213-0b8aea88e1dc.mxrq1jo50t.png",
+      "AssetFile": "C:\\Users\\devga\\OneDrive\\Desktop\\FinalBarcode\\BarcodeAssignment\\Assignment\\wwwroot\\images\\47a12e2a-46c4-40d8-b213-0b8aea88e1dc.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1915"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"FmMEi7txn7KMGqCMOd6sp1vVxVWiM+zhyDpHVcxtXAY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 27 May 2025 10:53:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "mxrq1jo50t"
+        },
+        {
+          "Name": "label",
+          "Value": "images/47a12e2a-46c4-40d8-b213-0b8aea88e1dc.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-FmMEi7txn7KMGqCMOd6sp1vVxVWiM+zhyDpHVcxtXAY="
+        }
+      ]
+    },
+    {
+      "Route": "images/47a12e2a-46c4-40d8-b213-0b8aea88e1dc.png",
+      "AssetFile": "C:\\Users\\devga\\OneDrive\\Desktop\\FinalBarcode\\BarcodeAssignment\\Assignment\\wwwroot\\images\\47a12e2a-46c4-40d8-b213-0b8aea88e1dc.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1915"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"FmMEi7txn7KMGqCMOd6sp1vVxVWiM+zhyDpHVcxtXAY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 27 May 2025 10:53:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-FmMEi7txn7KMGqCMOd6sp1vVxVWiM+zhyDpHVcxtXAY="
+        }
+      ]
+    },
+    {
+      "Route": "images/e1be4c9e-e028-4c9c-b437-8db2f3bd6f4f.mxrq1jo50t.png",
+      "AssetFile": "C:\\Users\\devga\\OneDrive\\Desktop\\FinalBarcode\\BarcodeAssignment\\Assignment\\wwwroot\\images\\e1be4c9e-e028-4c9c-b437-8db2f3bd6f4f.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1915"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"FmMEi7txn7KMGqCMOd6sp1vVxVWiM+zhyDpHVcxtXAY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 27 May 2025 11:00:50 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "mxrq1jo50t"
+        },
+        {
+          "Name": "label",
+          "Value": "images/e1be4c9e-e028-4c9c-b437-8db2f3bd6f4f.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-FmMEi7txn7KMGqCMOd6sp1vVxVWiM+zhyDpHVcxtXAY="
+        }
+      ]
+    },
+    {
+      "Route": "images/e1be4c9e-e028-4c9c-b437-8db2f3bd6f4f.png",
+      "AssetFile": "C:\\Users\\devga\\OneDrive\\Desktop\\FinalBarcode\\BarcodeAssignment\\Assignment\\wwwroot\\images\\e1be4c9e-e028-4c9c-b437-8db2f3bd6f4f.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1915"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"FmMEi7txn7KMGqCMOd6sp1vVxVWiM+zhyDpHVcxtXAY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 27 May 2025 11:00:50 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-FmMEi7txn7KMGqCMOd6sp1vVxVWiM+zhyDpHVcxtXAY="
+        }
+      ]
+    },
+    {
       "Route": "js/site.js",
-      "AssetFile": "C:\\Users\\devga\\OneDrive\\Desktop\\FinalBarcode\\BarcodeAssignment\\Assignment\\obj\\Debug\\net9.0\\compressed\\89v64ndtbs-wzy6mld5bm.gz",
+      "AssetFile": "C:\\Users\\devga\\OneDrive\\Desktop\\FinalBarcode\\BarcodeAssignment\\Assignment\\obj\\Debug\\net9.0\\compressed\\89v64ndtbs-mo1ogjmd4n.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.003076923077"
+          "Quality": "0.001915708812"
         }
       ],
       "ResponseHeaders": [
@@ -3936,15 +4142,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "324"
+          "Value": "521"
         },
         {
           "Name": "ETag",
-          "Value": "\"+BbQdDmuvAG67SFeLjNHh5yRMelvoueVG1SD3XIEvXw=\""
+          "Value": "\"wUeqRJRZgirEbfYLF4BgvouAXDbjakwESYTxP8Gtj4A=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 27 May 2025 01:45:11 GMT"
+          "Value": "Tue, 27 May 2025 11:00:07 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3964,13 +4170,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"rFBmv+JZG7F+EVdyqnIMewxtDt8NgG6MeAQeaCHInhw=\""
+          "Value": "W/\"hvqp8srDs5spA9CWjr7kZFDAjBODkvvie2t9tzJ+jz8=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-rFBmv+JZG7F+EVdyqnIMewxtDt8NgG6MeAQeaCHInhw="
+          "Value": "sha256-hvqp8srDs5spA9CWjr7kZFDAjBODkvvie2t9tzJ+jz8="
         }
       ]
     },
@@ -3985,7 +4191,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "505"
+          "Value": "1078"
         },
         {
           "Name": "Content-Type",
@@ -3993,11 +4199,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"rFBmv+JZG7F+EVdyqnIMewxtDt8NgG6MeAQeaCHInhw=\""
+          "Value": "\"hvqp8srDs5spA9CWjr7kZFDAjBODkvvie2t9tzJ+jz8=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 27 May 2025 01:45:11 GMT"
+          "Value": "Tue, 27 May 2025 11:00:07 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4007,13 +4213,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-rFBmv+JZG7F+EVdyqnIMewxtDt8NgG6MeAQeaCHInhw="
+          "Value": "sha256-hvqp8srDs5spA9CWjr7kZFDAjBODkvvie2t9tzJ+jz8="
         }
       ]
     },
     {
       "Route": "js/site.js.gz",
-      "AssetFile": "C:\\Users\\devga\\OneDrive\\Desktop\\FinalBarcode\\BarcodeAssignment\\Assignment\\obj\\Debug\\net9.0\\compressed\\89v64ndtbs-wzy6mld5bm.gz",
+      "AssetFile": "C:\\Users\\devga\\OneDrive\\Desktop\\FinalBarcode\\BarcodeAssignment\\Assignment\\obj\\Debug\\net9.0\\compressed\\89v64ndtbs-mo1ogjmd4n.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4022,7 +4228,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "324"
+          "Value": "521"
         },
         {
           "Name": "Content-Type",
@@ -4030,11 +4236,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"+BbQdDmuvAG67SFeLjNHh5yRMelvoueVG1SD3XIEvXw=\""
+          "Value": "\"wUeqRJRZgirEbfYLF4BgvouAXDbjakwESYTxP8Gtj4A=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 27 May 2025 01:45:11 GMT"
+          "Value": "Tue, 27 May 2025 11:00:07 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4052,18 +4258,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-+BbQdDmuvAG67SFeLjNHh5yRMelvoueVG1SD3XIEvXw="
+          "Value": "sha256-wUeqRJRZgirEbfYLF4BgvouAXDbjakwESYTxP8Gtj4A="
         }
       ]
     },
     {
-      "Route": "js/site.wzy6mld5bm.js",
-      "AssetFile": "C:\\Users\\devga\\OneDrive\\Desktop\\FinalBarcode\\BarcodeAssignment\\Assignment\\obj\\Debug\\net9.0\\compressed\\89v64ndtbs-wzy6mld5bm.gz",
+      "Route": "js/site.mo1ogjmd4n.js",
+      "AssetFile": "C:\\Users\\devga\\OneDrive\\Desktop\\FinalBarcode\\BarcodeAssignment\\Assignment\\obj\\Debug\\net9.0\\compressed\\89v64ndtbs-mo1ogjmd4n.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.003076923077"
+          "Quality": "0.001915708812"
         }
       ],
       "ResponseHeaders": [
@@ -4073,15 +4279,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "324"
+          "Value": "521"
         },
         {
           "Name": "ETag",
-          "Value": "\"+BbQdDmuvAG67SFeLjNHh5yRMelvoueVG1SD3XIEvXw=\""
+          "Value": "\"wUeqRJRZgirEbfYLF4BgvouAXDbjakwESYTxP8Gtj4A=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 27 May 2025 01:45:11 GMT"
+          "Value": "Tue, 27 May 2025 11:00:07 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4101,13 +4307,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"rFBmv+JZG7F+EVdyqnIMewxtDt8NgG6MeAQeaCHInhw=\""
+          "Value": "W/\"hvqp8srDs5spA9CWjr7kZFDAjBODkvvie2t9tzJ+jz8=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "wzy6mld5bm"
+          "Value": "mo1ogjmd4n"
         },
         {
           "Name": "label",
@@ -4115,12 +4321,12 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-rFBmv+JZG7F+EVdyqnIMewxtDt8NgG6MeAQeaCHInhw="
+          "Value": "sha256-hvqp8srDs5spA9CWjr7kZFDAjBODkvvie2t9tzJ+jz8="
         }
       ]
     },
     {
-      "Route": "js/site.wzy6mld5bm.js",
+      "Route": "js/site.mo1ogjmd4n.js",
       "AssetFile": "C:\\Users\\devga\\OneDrive\\Desktop\\FinalBarcode\\BarcodeAssignment\\Assignment\\wwwroot\\js\\site.js",
       "Selectors": [],
       "ResponseHeaders": [
@@ -4130,7 +4336,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "505"
+          "Value": "1078"
         },
         {
           "Name": "Content-Type",
@@ -4138,11 +4344,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"rFBmv+JZG7F+EVdyqnIMewxtDt8NgG6MeAQeaCHInhw=\""
+          "Value": "\"hvqp8srDs5spA9CWjr7kZFDAjBODkvvie2t9tzJ+jz8=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 27 May 2025 01:45:11 GMT"
+          "Value": "Tue, 27 May 2025 11:00:07 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4152,7 +4358,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "wzy6mld5bm"
+          "Value": "mo1ogjmd4n"
         },
         {
           "Name": "label",
@@ -4160,13 +4366,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-rFBmv+JZG7F+EVdyqnIMewxtDt8NgG6MeAQeaCHInhw="
+          "Value": "sha256-hvqp8srDs5spA9CWjr7kZFDAjBODkvvie2t9tzJ+jz8="
         }
       ]
     },
     {
-      "Route": "js/site.wzy6mld5bm.js.gz",
-      "AssetFile": "C:\\Users\\devga\\OneDrive\\Desktop\\FinalBarcode\\BarcodeAssignment\\Assignment\\obj\\Debug\\net9.0\\compressed\\89v64ndtbs-wzy6mld5bm.gz",
+      "Route": "js/site.mo1ogjmd4n.js.gz",
+      "AssetFile": "C:\\Users\\devga\\OneDrive\\Desktop\\FinalBarcode\\BarcodeAssignment\\Assignment\\obj\\Debug\\net9.0\\compressed\\89v64ndtbs-mo1ogjmd4n.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4175,7 +4381,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "324"
+          "Value": "521"
         },
         {
           "Name": "Content-Type",
@@ -4183,11 +4389,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"+BbQdDmuvAG67SFeLjNHh5yRMelvoueVG1SD3XIEvXw=\""
+          "Value": "\"wUeqRJRZgirEbfYLF4BgvouAXDbjakwESYTxP8Gtj4A=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 27 May 2025 01:45:11 GMT"
+          "Value": "Tue, 27 May 2025 11:00:07 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4205,7 +4411,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "wzy6mld5bm"
+          "Value": "mo1ogjmd4n"
         },
         {
           "Name": "label",
@@ -4213,7 +4419,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-+BbQdDmuvAG67SFeLjNHh5yRMelvoueVG1SD3XIEvXw="
+          "Value": "sha256-wUeqRJRZgirEbfYLF4BgvouAXDbjakwESYTxP8Gtj4A="
         }
       ]
     },

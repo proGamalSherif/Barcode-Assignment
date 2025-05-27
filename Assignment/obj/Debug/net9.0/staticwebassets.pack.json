@@ -13,6 +13,14 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "C:\\Users\\devga\\OneDrive\\Desktop\\FinalBarcode\\BarcodeAssignment\\Assignment\\wwwroot\\images\\47a12e2a-46c4-40d8-b213-0b8aea88e1dc.png",
+      "PackagePath": "staticwebassets\\images\\47a12e2a-46c4-40d8-b213-0b8aea88e1dc.png"
+    },
+    {
+      "Id": "C:\\Users\\devga\\OneDrive\\Desktop\\FinalBarcode\\BarcodeAssignment\\Assignment\\wwwroot\\images\\e1be4c9e-e028-4c9c-b437-8db2f3bd6f4f.png",
+      "PackagePath": "staticwebassets\\images\\e1be4c9e-e028-4c9c-b437-8db2f3bd6f4f.png"
+    },
+    {
       "Id": "C:\\Users\\devga\\OneDrive\\Desktop\\FinalBarcode\\BarcodeAssignment\\Assignment\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
